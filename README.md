@@ -1,0 +1,2 @@
+# MachineLearning_Algorithms_Parineet
+Python scripts implementing five machine learning algorithms
